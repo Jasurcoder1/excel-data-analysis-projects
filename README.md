@@ -1,20 +1,29 @@
-# 📊 Excel Data Analysis Projects
+# 📊 Excel Data Analysis Loyihasi
 
-## 🎯 Goal
-Data analysis using Excel for business insights.
+## 🎯 Loyiha nomi
+Pareto samaradorlik tahlili (80/20 qoidasi)
 
-## 📁 Projects
-- Sales Analysis
-- Customer Analysis
-- Finance Report
+---
 
-## 🛠 Tools
+## 📌 Loyiha haqida
+Bu loyiha Pareto qonuni asosida biznes ma’lumotlarini tahlil qiladi.  
+Ya’ni 20% omillar 80% natijani beradi degan prinsip tekshiriladi.
+
+---
+
+## 🧠 Asosiy natijalar
+- Eng ko‘p foyda keltiradigan omillar aniqlandi
+- Past samarali qismlar ajratildi
+- Biznes samaradorligi tahlil qilindi
+
+---
+
+## 🛠 Foydalanilgan vositalar
 - Microsoft Excel
-- Pivot Tables
-- Charts
-- Data Cleaning
+- Pivot Table
+- Diagrammalar (Charts)
 
-## 📈 Skills Demonstrated
-- Data visualization
-- Reporting
-- Business insights
+---
+
+## 📈 Natija
+Bu tahlil biznes qarorlarini yaxshiroq qabul qilishga yordam beradi.
