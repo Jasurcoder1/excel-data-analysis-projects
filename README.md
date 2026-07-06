@@ -20,7 +20,7 @@ Yillik savdo ko'rsatkichlari va renatibillik tahlili.
 ### Savdo do'koni tahlili
 Hududlar va turli katogriyalar bo'yicha tahlil.
 
-## 📁 YTD/MTD/DD/QT
+### 📁 YTD/MTD/DD/QT
 Bu loyiha o'tkan yilning oy/kun/choraklariga qarab taqoslanib savdoni tahlili
 ---
 
