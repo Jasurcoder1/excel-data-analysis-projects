@@ -1,7 +1,5 @@
-# 📊 Sales Performance Analysis (Excel)
+# (Excel)
 
-## 🎯 Loyiha maqsadi
-Ushbu loyiha sotuv ma’lumotlarini tahlil qilish orqali eng muhim biznes ko‘rsatkichlarini aniqlashga qaratilgan.
 
 ---
 
@@ -22,6 +20,8 @@ Yillik savdo ko'rsatkichlari va renatibillik tahlili.
 ### Savdo do'koni tahlili
 Hududlar va turli katogriyalar bo'yicha tahlil.
 
+## 📁 YTD/MTD/DD/QT
+Bu loyiha o'tkan yilning oy/kun/choraklariga qarab taqoslanib savdoni tahlili
 ---
 
 ## 🛠 Foydalanilgan vositalar
