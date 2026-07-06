@@ -16,6 +16,12 @@ Eng ko‘p xarid qilgan mijozlar tahlil qilingan.
 ### 📊 Umumiy mahsulot tahlili
 Mahsulotlar bo‘yicha sotuv va daromad tahlili.
 
+### 📊 Savdo hisobotlari varentabillik
+Yillik savdo ko'rsatkichlari va renatibillik tahlili.
+
+### Savdo do'koni tahlili
+Hududlar va turli katogriyalar bo'yicha tahlil.
+
 ---
 
 ## 🛠 Foydalanilgan vositalar
