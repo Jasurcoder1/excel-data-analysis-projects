@@ -17,11 +17,16 @@ Mahsulotlar bo‘yicha sotuv va daromad tahlili.
 ### 📊 Savdo hisobotlari varentabillik
 Yillik savdo ko'rsatkichlari va renatibillik tahlili.
 
-### Savdo do'koni tahlili
+### 📊 Savdo do'koni tahlili
 Hududlar va turli katogriyalar bo'yicha tahlil.
 
-### 📁 YTD/MTD/DD/QT
-Bu loyiha o'tkan yilning oy/kun/choraklariga qarab taqoslanib savdoni tahlili
+### 📊 YTD/MTD/QTD/DD
+BU loyiha savdoni o'tkan yilgi savdo bilan solishtirish.
+
+
+
+
+
 ---
 
 ## 🛠 Foydalanilgan vositalar
