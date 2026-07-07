@@ -11,6 +11,9 @@ Eng ko‘p sotilgan mahsulotlar aniqlangan.
 ### 👤 Top Mijozlar
 Eng ko‘p xarid qilgan mijozlar tahlil qilingan.
 
+### 👤 RFM Tahlil
+Mijozlarni segmentatsiyasi bo'yicha tahlil.
+
 ### 📊 Umumiy mahsulot tahlili
 Mahsulotlar bo‘yicha sotuv va daromad tahlili.
 
